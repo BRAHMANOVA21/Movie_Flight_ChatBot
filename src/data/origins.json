@@ -1,0 +1,30 @@
+[
+  {
+    "iata": "IST",
+    "city": "Istanbul",
+    "country": "TR",
+    "lat": 41.26,
+    "lon": 28.74
+  },
+  {
+    "iata": "SAW",
+    "city": "Istanbul (Sabiha Gokcen)",
+    "country": "TR",
+    "lat": 40.9,
+    "lon": 29.31
+  },
+  {
+    "iata": "ESB",
+    "city": "Ankara",
+    "country": "TR",
+    "lat": 40.13,
+    "lon": 32.99
+  },
+  {
+    "iata": "GYD",
+    "city": "Baku",
+    "country": "AZ",
+    "lat": 40.47,
+    "lon": 50.05
+  }
+]

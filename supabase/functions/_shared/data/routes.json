@@ -1,0 +1,2254 @@
+[
+  {
+    "origin": "IST",
+    "destination": "HKT",
+    "destination_id": "phuket",
+    "distance_km": 7725,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 805,
+    "base_duration_min": 629
+  },
+  {
+    "origin": "IST",
+    "destination": "BKK",
+    "destination_id": "bangkok",
+    "distance_km": 7491,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 782,
+    "base_duration_min": 611
+  },
+  {
+    "origin": "IST",
+    "destination": "LGK",
+    "destination_id": "langkawi",
+    "distance_km": 7967,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 727,
+    "base_duration_min": 798
+  },
+  {
+    "origin": "IST",
+    "destination": "KUL",
+    "destination_id": "kuala_lumpur",
+    "distance_km": 8361,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 867,
+    "base_duration_min": 678
+  },
+  {
+    "origin": "IST",
+    "destination": "MLE",
+    "destination_id": "male",
+    "distance_km": 6061,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 642,
+    "base_duration_min": 501
+  },
+  {
+    "origin": "IST",
+    "destination": "SSH",
+    "destination_id": "sharm",
+    "distance_km": 1569,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 203,
+    "base_duration_min": 156
+  },
+  {
+    "origin": "IST",
+    "destination": "HRG",
+    "destination_id": "hurghada",
+    "distance_km": 1630,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 209,
+    "base_duration_min": 160
+  },
+  {
+    "origin": "IST",
+    "destination": "CMB",
+    "destination_id": "colombo",
+    "distance_km": 6318,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 668,
+    "base_duration_min": 521
+  },
+  {
+    "origin": "IST",
+    "destination": "DPS",
+    "destination_id": "bali",
+    "distance_km": 10351,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 1062,
+    "base_duration_min": 831
+  },
+  {
+    "origin": "IST",
+    "destination": "PQC",
+    "destination_id": "phu_quoc",
+    "distance_km": 8030,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 733,
+    "base_duration_min": 803
+  },
+  {
+    "origin": "IST",
+    "destination": "MRU",
+    "destination_id": "mauritius",
+    "distance_km": 7479,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 686,
+    "base_duration_min": 760
+  },
+  {
+    "origin": "IST",
+    "destination": "SEZ",
+    "destination_id": "seychelles",
+    "distance_km": 5788,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 616,
+    "base_duration_min": 480
+  },
+  {
+    "origin": "IST",
+    "destination": "ZNZ",
+    "destination_id": "zanzibar",
+    "distance_km": 5384,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 576,
+    "base_duration_min": 449
+  },
+  {
+    "origin": "IST",
+    "destination": "PUJ",
+    "destination_id": "punta_cana",
+    "distance_km": 9230,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 835,
+    "base_duration_min": 895
+  },
+  {
+    "origin": "IST",
+    "destination": "CUN",
+    "destination_id": "cancun",
+    "distance_km": 10414,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 1068,
+    "base_duration_min": 836
+  },
+  {
+    "origin": "IST",
+    "destination": "HAV",
+    "destination_id": "havana",
+    "distance_km": 9948,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 896,
+    "base_duration_min": 950
+  },
+  {
+    "origin": "IST",
+    "destination": "GIG",
+    "destination_id": "rio",
+    "distance_km": 10275,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 1054,
+    "base_duration_min": 825
+  },
+  {
+    "origin": "IST",
+    "destination": "CTG",
+    "destination_id": "cartagena",
+    "distance_km": 10408,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 935,
+    "base_duration_min": 986
+  },
+  {
+    "origin": "IST",
+    "destination": "MPH",
+    "destination_id": "boracay",
+    "distance_km": 9399,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 849,
+    "base_duration_min": 908
+  },
+  {
+    "origin": "IST",
+    "destination": "GOX",
+    "destination_id": "goa",
+    "distance_km": 5182,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 490,
+    "base_duration_min": 584
+  },
+  {
+    "origin": "IST",
+    "destination": "CPT",
+    "destination_id": "cape_town",
+    "distance_km": 8424,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 873,
+    "base_duration_min": 683
+  },
+  {
+    "origin": "IST",
+    "destination": "MBA",
+    "destination_id": "mombasa",
+    "distance_km": 5152,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 488,
+    "base_duration_min": 581
+  },
+  {
+    "origin": "IST",
+    "destination": "DXB",
+    "destination_id": "dubai",
+    "distance_km": 3028,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 346,
+    "base_duration_min": 268
+  },
+  {
+    "origin": "IST",
+    "destination": "DOH",
+    "destination_id": "doha",
+    "distance_km": 2746,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 318,
+    "base_duration_min": 246
+  },
+  {
+    "origin": "IST",
+    "destination": "MCT",
+    "destination_id": "muscat",
+    "distance_km": 3379,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 380,
+    "base_duration_min": 295
+  },
+  {
+    "origin": "IST",
+    "destination": "JED",
+    "destination_id": "jeddah",
+    "distance_km": 2407,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 285,
+    "base_duration_min": 220
+  },
+  {
+    "origin": "IST",
+    "destination": "AQJ",
+    "destination_id": "aqaba",
+    "distance_km": 1424,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 189,
+    "base_duration_min": 145
+  },
+  {
+    "origin": "IST",
+    "destination": "RAK",
+    "destination_id": "marrakech",
+    "distance_km": 3429,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 341,
+    "base_duration_min": 449
+  },
+  {
+    "origin": "IST",
+    "destination": "AGA",
+    "destination_id": "agadir",
+    "distance_km": 3627,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 358,
+    "base_duration_min": 464
+  },
+  {
+    "origin": "IST",
+    "destination": "SIN",
+    "destination_id": "singapore",
+    "distance_km": 8680,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 898,
+    "base_duration_min": 703
+  },
+  {
+    "origin": "IST",
+    "destination": "AYT",
+    "destination_id": "antalya",
+    "distance_km": 513,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 94,
+    "base_duration_min": 224
+  },
+  {
+    "origin": "IST",
+    "destination": "TBS",
+    "destination_id": "tbilisi",
+    "distance_km": 1337,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 181,
+    "base_duration_min": 138
+  },
+  {
+    "origin": "IST",
+    "destination": "TBS",
+    "destination_id": "gudauri",
+    "distance_km": 1308,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 178,
+    "base_duration_min": 136
+  },
+  {
+    "origin": "IST",
+    "destination": "GYD",
+    "destination_id": "shahdag",
+    "distance_km": 1614,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 208,
+    "base_duration_min": 159
+  },
+  {
+    "origin": "IST",
+    "destination": "ERZ",
+    "destination_id": "palandoken",
+    "distance_km": 1070,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 155,
+    "base_duration_min": 117
+  },
+  {
+    "origin": "IST",
+    "destination": "HND",
+    "destination_id": "tokyo",
+    "distance_km": 8950,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 925,
+    "base_duration_min": 723
+  },
+  {
+    "origin": "IST",
+    "destination": "BEG",
+    "destination_id": "belgrade",
+    "distance_km": 790,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 127,
+    "base_duration_min": 96
+  },
+  {
+    "origin": "IST",
+    "destination": "SKD",
+    "destination_id": "samarkand",
+    "distance_km": 3209,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 364,
+    "base_duration_min": 282
+  },
+  {
+    "origin": "IST",
+    "destination": "GYD",
+    "destination_id": "baku",
+    "distance_km": 1778,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 224,
+    "base_duration_min": 172
+  },
+  {
+    "origin": "SAW",
+    "destination": "HKT",
+    "destination_id": "phuket",
+    "distance_km": 7672,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 702,
+    "base_duration_min": 775
+  },
+  {
+    "origin": "SAW",
+    "destination": "BKK",
+    "destination_id": "bangkok",
+    "distance_km": 7442,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 683,
+    "base_duration_min": 757
+  },
+  {
+    "origin": "SAW",
+    "destination": "LGK",
+    "destination_id": "langkawi",
+    "distance_km": 7914,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 723,
+    "base_duration_min": 794
+  },
+  {
+    "origin": "SAW",
+    "destination": "KUL",
+    "destination_id": "kuala_lumpur",
+    "distance_km": 8307,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 756,
+    "base_duration_min": 824
+  },
+  {
+    "origin": "SAW",
+    "destination": "MLE",
+    "destination_id": "male",
+    "distance_km": 5999,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 560,
+    "base_duration_min": 646
+  },
+  {
+    "origin": "SAW",
+    "destination": "SSH",
+    "destination_id": "sharm",
+    "distance_km": 1516,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 179,
+    "base_duration_min": 302
+  },
+  {
+    "origin": "SAW",
+    "destination": "HRG",
+    "destination_id": "hurghada",
+    "distance_km": 1578,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 204,
+    "base_duration_min": 156
+  },
+  {
+    "origin": "SAW",
+    "destination": "CMB",
+    "destination_id": "colombo",
+    "distance_km": 6259,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 582,
+    "base_duration_min": 666
+  },
+  {
+    "origin": "SAW",
+    "destination": "DPS",
+    "destination_id": "bali",
+    "distance_km": 10297,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 925,
+    "base_duration_min": 977
+  },
+  {
+    "origin": "SAW",
+    "destination": "PQC",
+    "destination_id": "phu_quoc",
+    "distance_km": 7981,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 728,
+    "base_duration_min": 799
+  },
+  {
+    "origin": "SAW",
+    "destination": "MRU",
+    "destination_id": "mauritius",
+    "distance_km": 7420,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 681,
+    "base_duration_min": 756
+  },
+  {
+    "origin": "SAW",
+    "destination": "SEZ",
+    "destination_id": "seychelles",
+    "distance_km": 5728,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 537,
+    "base_duration_min": 626
+  },
+  {
+    "origin": "SAW",
+    "destination": "ZNZ",
+    "destination_id": "zanzibar",
+    "distance_km": 5334,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 503,
+    "base_duration_min": 595
+  },
+  {
+    "origin": "SAW",
+    "destination": "PUJ",
+    "destination_id": "punta_cana",
+    "distance_km": 9288,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 839,
+    "base_duration_min": 899
+  },
+  {
+    "origin": "SAW",
+    "destination": "CUN",
+    "destination_id": "cancun",
+    "distance_km": 10475,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 940,
+    "base_duration_min": 991
+  },
+  {
+    "origin": "SAW",
+    "destination": "HAV",
+    "destination_id": "havana",
+    "distance_km": 10009,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 901,
+    "base_duration_min": 955
+  },
+  {
+    "origin": "SAW",
+    "destination": "GIG",
+    "destination_id": "rio",
+    "distance_km": 10298,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 925,
+    "base_duration_min": 977
+  },
+  {
+    "origin": "SAW",
+    "destination": "CTG",
+    "destination_id": "cartagena",
+    "distance_km": 10466,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 940,
+    "base_duration_min": 990
+  },
+  {
+    "origin": "SAW",
+    "destination": "MPH",
+    "destination_id": "boracay",
+    "distance_km": 9359,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 846,
+    "base_duration_min": 905
+  },
+  {
+    "origin": "SAW",
+    "destination": "GOX",
+    "destination_id": "goa",
+    "distance_km": 5123,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 485,
+    "base_duration_min": 579
+  },
+  {
+    "origin": "SAW",
+    "destination": "CPT",
+    "destination_id": "cape_town",
+    "distance_km": 8392,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 763,
+    "base_duration_min": 831
+  },
+  {
+    "origin": "SAW",
+    "destination": "MBA",
+    "destination_id": "mombasa",
+    "distance_km": 5101,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 484,
+    "base_duration_min": 577
+  },
+  {
+    "origin": "SAW",
+    "destination": "DXB",
+    "destination_id": "dubai",
+    "distance_km": 2967,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 340,
+    "base_duration_min": 263
+  },
+  {
+    "origin": "SAW",
+    "destination": "DOH",
+    "destination_id": "doha",
+    "distance_km": 2684,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 278,
+    "base_duration_min": 391
+  },
+  {
+    "origin": "SAW",
+    "destination": "MCT",
+    "destination_id": "muscat",
+    "distance_km": 3318,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 332,
+    "base_duration_min": 440
+  },
+  {
+    "origin": "SAW",
+    "destination": "JED",
+    "destination_id": "jeddah",
+    "distance_km": 2349,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 280,
+    "base_duration_min": 216
+  },
+  {
+    "origin": "SAW",
+    "destination": "AQJ",
+    "destination_id": "aqaba",
+    "distance_km": 1368,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 166,
+    "base_duration_min": 290
+  },
+  {
+    "origin": "SAW",
+    "destination": "RAK",
+    "destination_id": "marrakech",
+    "distance_km": 3472,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 345,
+    "base_duration_min": 452
+  },
+  {
+    "origin": "SAW",
+    "destination": "AGA",
+    "destination_id": "agadir",
+    "distance_km": 3670,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 362,
+    "base_duration_min": 467
+  },
+  {
+    "origin": "SAW",
+    "destination": "SIN",
+    "destination_id": "singapore",
+    "distance_km": 8627,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 783,
+    "base_duration_min": 849
+  },
+  {
+    "origin": "SAW",
+    "destination": "AYT",
+    "destination_id": "antalya",
+    "distance_km": 461,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 89,
+    "base_duration_min": 220
+  },
+  {
+    "origin": "SAW",
+    "destination": "TBS",
+    "destination_id": "tbilisi",
+    "distance_km": 1295,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 177,
+    "base_duration_min": 135
+  },
+  {
+    "origin": "SAW",
+    "destination": "TBS",
+    "destination_id": "gudauri",
+    "distance_km": 1270,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 174,
+    "base_duration_min": 133
+  },
+  {
+    "origin": "SAW",
+    "destination": "GYD",
+    "destination_id": "shahdag",
+    "distance_km": 1572,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 204,
+    "base_duration_min": 156
+  },
+  {
+    "origin": "SAW",
+    "destination": "ERZ",
+    "destination_id": "palandoken",
+    "distance_km": 1021,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 150,
+    "base_duration_min": 114
+  },
+  {
+    "origin": "SAW",
+    "destination": "HND",
+    "destination_id": "tokyo",
+    "distance_km": 8938,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 810,
+    "base_duration_min": 873
+  },
+  {
+    "origin": "SAW",
+    "destination": "BEG",
+    "destination_id": "belgrade",
+    "distance_km": 852,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 133,
+    "base_duration_min": 101
+  },
+  {
+    "origin": "SAW",
+    "destination": "SKD",
+    "destination_id": "samarkand",
+    "distance_km": 3169,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 319,
+    "base_duration_min": 429
+  },
+  {
+    "origin": "SAW",
+    "destination": "GYD",
+    "destination_id": "baku",
+    "distance_km": 1734,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 219,
+    "base_duration_min": 168
+  },
+  {
+    "origin": "ESB",
+    "destination": "HKT",
+    "destination_id": "phuket",
+    "distance_km": 7351,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 675,
+    "base_duration_min": 750
+  },
+  {
+    "origin": "ESB",
+    "destination": "BKK",
+    "destination_id": "bangkok",
+    "distance_km": 7128,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 656,
+    "base_duration_min": 733
+  },
+  {
+    "origin": "ESB",
+    "destination": "LGK",
+    "destination_id": "langkawi",
+    "distance_km": 7593,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 695,
+    "base_duration_min": 769
+  },
+  {
+    "origin": "ESB",
+    "destination": "KUL",
+    "destination_id": "kuala_lumpur",
+    "distance_km": 7986,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 729,
+    "base_duration_min": 799
+  },
+  {
+    "origin": "ESB",
+    "destination": "MLE",
+    "destination_id": "male",
+    "distance_km": 5690,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 534,
+    "base_duration_min": 623
+  },
+  {
+    "origin": "ESB",
+    "destination": "SSH",
+    "destination_id": "sharm",
+    "distance_km": 1365,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 166,
+    "base_duration_min": 290
+  },
+  {
+    "origin": "ESB",
+    "destination": "HRG",
+    "destination_id": "hurghada",
+    "distance_km": 1440,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 172,
+    "base_duration_min": 296
+  },
+  {
+    "origin": "ESB",
+    "destination": "CMB",
+    "destination_id": "colombo",
+    "distance_km": 5940,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 555,
+    "base_duration_min": 642
+  },
+  {
+    "origin": "ESB",
+    "destination": "DPS",
+    "destination_id": "bali",
+    "distance_km": 9976,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 898,
+    "base_duration_min": 952
+  },
+  {
+    "origin": "ESB",
+    "destination": "PQC",
+    "destination_id": "phu_quoc",
+    "distance_km": 7666,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 702,
+    "base_duration_min": 775
+  },
+  {
+    "origin": "ESB",
+    "destination": "MRU",
+    "destination_id": "mauritius",
+    "distance_km": 7201,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 662,
+    "base_duration_min": 739
+  },
+  {
+    "origin": "ESB",
+    "destination": "SEZ",
+    "destination_id": "seychelles",
+    "distance_km": 5490,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 517,
+    "base_duration_min": 607
+  },
+  {
+    "origin": "ESB",
+    "destination": "ZNZ",
+    "destination_id": "zanzibar",
+    "distance_km": 5191,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 491,
+    "base_duration_min": 584
+  },
+  {
+    "origin": "ESB",
+    "destination": "PUJ",
+    "destination_id": "punta_cana",
+    "distance_km": 9609,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 867,
+    "base_duration_min": 924
+  },
+  {
+    "origin": "ESB",
+    "destination": "CUN",
+    "destination_id": "cancun",
+    "distance_km": 10781,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 966,
+    "base_duration_min": 1014
+  },
+  {
+    "origin": "ESB",
+    "destination": "HAV",
+    "destination_id": "havana",
+    "distance_km": 10318,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 927,
+    "base_duration_min": 979
+  },
+  {
+    "origin": "ESB",
+    "destination": "GIG",
+    "destination_id": "rio",
+    "distance_km": 10535,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 945,
+    "base_duration_min": 995
+  },
+  {
+    "origin": "ESB",
+    "destination": "CTG",
+    "destination_id": "cartagena",
+    "distance_km": 10788,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 967,
+    "base_duration_min": 1015
+  },
+  {
+    "origin": "ESB",
+    "destination": "MPH",
+    "destination_id": "boracay",
+    "distance_km": 9067,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 821,
+    "base_duration_min": 882
+  },
+  {
+    "origin": "ESB",
+    "destination": "GOX",
+    "destination_id": "goa",
+    "distance_km": 4803,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 458,
+    "base_duration_min": 554
+  },
+  {
+    "origin": "ESB",
+    "destination": "CPT",
+    "destination_id": "cape_town",
+    "distance_km": 8367,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 761,
+    "base_duration_min": 829
+  },
+  {
+    "origin": "ESB",
+    "destination": "MBA",
+    "destination_id": "mombasa",
+    "distance_km": 4953,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 471,
+    "base_duration_min": 566
+  },
+  {
+    "origin": "ESB",
+    "destination": "DXB",
+    "destination_id": "dubai",
+    "distance_km": 2654,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 276,
+    "base_duration_min": 389
+  },
+  {
+    "origin": "ESB",
+    "destination": "DOH",
+    "destination_id": "doha",
+    "distance_km": 2382,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 252,
+    "base_duration_min": 368
+  },
+  {
+    "origin": "ESB",
+    "destination": "MCT",
+    "destination_id": "muscat",
+    "distance_km": 3004,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 305,
+    "base_duration_min": 416
+  },
+  {
+    "origin": "ESB",
+    "destination": "JED",
+    "destination_id": "jeddah",
+    "distance_km": 2153,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 233,
+    "base_duration_min": 351
+  },
+  {
+    "origin": "ESB",
+    "destination": "AQJ",
+    "destination_id": "aqaba",
+    "distance_km": 1196,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 152,
+    "base_duration_min": 277
+  },
+  {
+    "origin": "ESB",
+    "destination": "RAK",
+    "destination_id": "marrakech",
+    "distance_km": 3778,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 371,
+    "base_duration_min": 476
+  },
+  {
+    "origin": "ESB",
+    "destination": "AGA",
+    "destination_id": "agadir",
+    "distance_km": 3974,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 388,
+    "base_duration_min": 491
+  },
+  {
+    "origin": "ESB",
+    "destination": "SIN",
+    "destination_id": "singapore",
+    "distance_km": 8305,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 756,
+    "base_duration_min": 824
+  },
+  {
+    "origin": "ESB",
+    "destination": "AYT",
+    "destination_id": "antalya",
+    "distance_km": 411,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 85,
+    "base_duration_min": 217
+  },
+  {
+    "origin": "ESB",
+    "destination": "TBS",
+    "destination_id": "tbilisi",
+    "distance_km": 1007,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 136,
+    "base_duration_min": 262
+  },
+  {
+    "origin": "ESB",
+    "destination": "TBS",
+    "destination_id": "gudauri",
+    "distance_km": 994,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 134,
+    "base_duration_min": 261
+  },
+  {
+    "origin": "ESB",
+    "destination": "GYD",
+    "destination_id": "shahdag",
+    "distance_km": 1278,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 159,
+    "base_duration_min": 283
+  },
+  {
+    "origin": "ESB",
+    "destination": "ERZ",
+    "destination_id": "palandoken",
+    "distance_km": 708,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 119,
+    "base_duration_min": 89
+  },
+  {
+    "origin": "ESB",
+    "destination": "HND",
+    "destination_id": "tokyo",
+    "distance_km": 8748,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 794,
+    "base_duration_min": 858
+  },
+  {
+    "origin": "ESB",
+    "destination": "BEG",
+    "destination_id": "belgrade",
+    "distance_km": 1161,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 149,
+    "base_duration_min": 274
+  },
+  {
+    "origin": "ESB",
+    "destination": "SKD",
+    "destination_id": "samarkand",
+    "distance_km": 2877,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 295,
+    "base_duration_min": 406
+  },
+  {
+    "origin": "ESB",
+    "destination": "IST",
+    "destination_id": "istanbul",
+    "distance_km": 352,
+    "direct_available": false,
+    "carriers": [
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)",
+      "Turkish Airlines (via IST)"
+    ],
+    "base_price_usd": 80,
+    "base_duration_min": 212
+  },
+  {
+    "origin": "ESB",
+    "destination": "GYD",
+    "destination_id": "baku",
+    "distance_km": 1433,
+    "direct_available": true,
+    "carriers": [
+      "Turkish Airlines",
+      "Pegasus",
+      "AJet"
+    ],
+    "base_price_usd": 190,
+    "base_duration_min": 145
+  },
+  {
+    "origin": "GYD",
+    "destination": "HKT",
+    "destination_id": "phuket",
+    "distance_km": 5979,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 558,
+    "base_duration_min": 645
+  },
+  {
+    "origin": "GYD",
+    "destination": "BKK",
+    "destination_id": "bangkok",
+    "distance_km": 5712,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 536,
+    "base_duration_min": 624
+  },
+  {
+    "origin": "GYD",
+    "destination": "LGK",
+    "destination_id": "langkawi",
+    "distance_km": 6222,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 579,
+    "base_duration_min": 664
+  },
+  {
+    "origin": "GYD",
+    "destination": "KUL",
+    "destination_id": "kuala_lumpur",
+    "distance_km": 6624,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 613,
+    "base_duration_min": 695
+  },
+  {
+    "origin": "GYD",
+    "destination": "MLE",
+    "destination_id": "male",
+    "distance_km": 4666,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 506,
+    "base_duration_min": 394
+  },
+  {
+    "origin": "GYD",
+    "destination": "SSH",
+    "destination_id": "sharm",
+    "distance_km": 2007,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 221,
+    "base_duration_min": 339
+  },
+  {
+    "origin": "GYD",
+    "destination": "HRG",
+    "destination_id": "hurghada",
+    "distance_km": 2098,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 228,
+    "base_duration_min": 346
+  },
+  {
+    "origin": "GYD",
+    "destination": "CMB",
+    "destination_id": "colombo",
+    "distance_km": 4766,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 455,
+    "base_duration_min": 552
+  },
+  {
+    "origin": "GYD",
+    "destination": "DPS",
+    "destination_id": "bali",
+    "distance_km": 8608,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 782,
+    "base_duration_min": 847
+  },
+  {
+    "origin": "GYD",
+    "destination": "PQC",
+    "destination_id": "phu_quoc",
+    "distance_km": 6252,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 581,
+    "base_duration_min": 666
+  },
+  {
+    "origin": "GYD",
+    "destination": "MRU",
+    "destination_id": "mauritius",
+    "distance_km": 6815,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 629,
+    "base_duration_min": 709
+  },
+  {
+    "origin": "GYD",
+    "destination": "SEZ",
+    "destination_id": "seychelles",
+    "distance_km": 5053,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 480,
+    "base_duration_min": 574
+  },
+  {
+    "origin": "GYD",
+    "destination": "ZNZ",
+    "destination_id": "zanzibar",
+    "distance_km": 5307,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 501,
+    "base_duration_min": 593
+  },
+  {
+    "origin": "GYD",
+    "destination": "PUJ",
+    "destination_id": "punta_cana",
+    "distance_km": 10880,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 975,
+    "base_duration_min": 1022
+  },
+  {
+    "origin": "GYD",
+    "destination": "CUN",
+    "destination_id": "cancun",
+    "distance_km": 11834,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 1056,
+    "base_duration_min": 1095
+  },
+  {
+    "origin": "GYD",
+    "destination": "HAV",
+    "destination_id": "havana",
+    "distance_km": 11405,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 1019,
+    "base_duration_min": 1062
+  },
+  {
+    "origin": "GYD",
+    "destination": "GIG",
+    "destination_id": "rio",
+    "distance_km": 11897,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 1061,
+    "base_duration_min": 1100
+  },
+  {
+    "origin": "GYD",
+    "destination": "CTG",
+    "destination_id": "cartagena",
+    "distance_km": 12068,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 1076,
+    "base_duration_min": 1113
+  },
+  {
+    "origin": "GYD",
+    "destination": "MPH",
+    "destination_id": "boracay",
+    "distance_km": 7622,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 698,
+    "base_duration_min": 771
+  },
+  {
+    "origin": "GYD",
+    "destination": "GOX",
+    "destination_id": "goa",
+    "distance_km": 3610,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 357,
+    "base_duration_min": 463
+  },
+  {
+    "origin": "GYD",
+    "destination": "CPT",
+    "destination_id": "cape_town",
+    "distance_km": 8884,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 805,
+    "base_duration_min": 868
+  },
+  {
+    "origin": "GYD",
+    "destination": "MBA",
+    "destination_id": "mombasa",
+    "distance_km": 5058,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 480,
+    "base_duration_min": 574
+  },
+  {
+    "origin": "GYD",
+    "destination": "DXB",
+    "destination_id": "dubai",
+    "distance_km": 1766,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 223,
+    "base_duration_min": 171
+  },
+  {
+    "origin": "GYD",
+    "destination": "DOH",
+    "destination_id": "doha",
+    "distance_km": 1692,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 215,
+    "base_duration_min": 165
+  },
+  {
+    "origin": "GYD",
+    "destination": "MCT",
+    "destination_id": "muscat",
+    "distance_km": 2032,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 223,
+    "base_duration_min": 341
+  },
+  {
+    "origin": "GYD",
+    "destination": "JED",
+    "destination_id": "jeddah",
+    "distance_km": 2345,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 279,
+    "base_duration_min": 215
+  },
+  {
+    "origin": "GYD",
+    "destination": "AQJ",
+    "destination_id": "aqaba",
+    "distance_km": 1830,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 206,
+    "base_duration_min": 326
+  },
+  {
+    "origin": "GYD",
+    "destination": "RAK",
+    "destination_id": "marrakech",
+    "distance_km": 5218,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 494,
+    "base_duration_min": 586
+  },
+  {
+    "origin": "GYD",
+    "destination": "AGA",
+    "destination_id": "agadir",
+    "distance_km": 5415,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 510,
+    "base_duration_min": 602
+  },
+  {
+    "origin": "GYD",
+    "destination": "SIN",
+    "destination_id": "singapore",
+    "distance_km": 6941,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 640,
+    "base_duration_min": 719
+  },
+  {
+    "origin": "GYD",
+    "destination": "AYT",
+    "destination_id": "antalya",
+    "distance_km": 1722,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 218,
+    "base_duration_min": 167
+  },
+  {
+    "origin": "GYD",
+    "destination": "TBS",
+    "destination_id": "tbilisi",
+    "distance_km": 461,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 95,
+    "base_duration_min": 70
+  },
+  {
+    "origin": "GYD",
+    "destination": "TBS",
+    "destination_id": "gudauri",
+    "distance_km": 515,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 100,
+    "base_duration_min": 75
+  },
+  {
+    "origin": "GYD",
+    "destination": "ERZ",
+    "destination_id": "palandoken",
+    "distance_km": 746,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 113,
+    "base_duration_min": 242
+  },
+  {
+    "origin": "GYD",
+    "destination": "HND",
+    "destination_id": "tokyo",
+    "distance_km": 7513,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 689,
+    "base_duration_min": 763
+  },
+  {
+    "origin": "GYD",
+    "destination": "BEG",
+    "destination_id": "belgrade",
+    "distance_km": 2466,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 291,
+    "base_duration_min": 225
+  },
+  {
+    "origin": "GYD",
+    "destination": "SKD",
+    "destination_id": "samarkand",
+    "distance_km": 1436,
+    "direct_available": false,
+    "carriers": [
+      "Turkish Airlines (via IST)",
+      "Emirates (via DXB)",
+      "Qatar Airways (via DOH)",
+      "flydubai (via DXB)"
+    ],
+    "base_price_usd": 172,
+    "base_duration_min": 295
+  },
+  {
+    "origin": "GYD",
+    "destination": "IST",
+    "destination_id": "istanbul",
+    "distance_km": 1772,
+    "direct_available": true,
+    "carriers": [
+      "AZAL",
+      "Turkish Airlines"
+    ],
+    "base_price_usd": 223,
+    "base_duration_min": 171
+  }
+]

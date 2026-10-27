@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-10-27",
+  "supported_passports": [
+    "TR",
+    "AZ"
+  ],
+  "tiers": {
+    "domestic": "no_visa",
+    "visa_free": "no_visa",
+    "visa_on_arrival_free": "no_visa",
+    "visa_on_arrival": "easy",
+    "eta": "easy",
+    "e_visa": "easy",
+    "visa_required": "hard"
+  },
+  "disclaimer": "Demo data compiled from public sources; verify with official government sites before travel."
+}

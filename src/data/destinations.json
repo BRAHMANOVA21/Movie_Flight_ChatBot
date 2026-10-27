@@ -1,0 +1,2367 @@
+[
+  {
+    "id": "phuket",
+    "city": "Phuket",
+    "country": "Thailand",
+    "country_code": "TH",
+    "airport_iata": "HKT",
+    "lat": 7.9,
+    "lon": 98.3,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      32,
+      33,
+      34,
+      34,
+      32,
+      31,
+      31,
+      31,
+      30,
+      31,
+      31,
+      31
+    ],
+    "tags": [
+      "beach",
+      "nightlife",
+      "diving",
+      "honeymoon"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 70,
+    "rainy_months": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Andaman Sea beaches, island hopping to Phi Phi, lively nightlife.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": "Thailand revised exemption rules in 2026; re-check stay length."
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 60,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Phuket Thailand travel"
+  },
+  {
+    "id": "bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "country_code": "TH",
+    "airport_iata": "BKK",
+    "lat": 13.7,
+    "lon": 100.5,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      32,
+      33,
+      34,
+      35,
+      34,
+      33,
+      32,
+      32,
+      32,
+      32,
+      32,
+      31
+    ],
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "nightlife",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 55,
+    "rainy_months": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "best_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "blurb": "Street food capital, temples, rooftop bars, cheap and energetic.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": "Re-check 2026 Thai exemption rules."
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 60,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Bangkok Thailand travel"
+  },
+  {
+    "id": "langkawi",
+    "city": "Langkawi",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "airport_iata": "LGK",
+    "lat": 6.3,
+    "lon": 99.8,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      32,
+      33,
+      33,
+      33,
+      32,
+      32,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31
+    ],
+    "tags": [
+      "beach",
+      "nature",
+      "family",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 50,
+    "rainy_months": [
+      9,
+      10,
+      11
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Duty-free island with rainforest, cable car and calm beaches.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Langkawi Malaysia travel"
+  },
+  {
+    "id": "kuala_lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "airport_iata": "KUL",
+    "lat": 3.1,
+    "lon": 101.7,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      32,
+      33,
+      33,
+      33,
+      33,
+      33,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32
+    ],
+    "tags": [
+      "city",
+      "food",
+      "shopping",
+      "family",
+      "halal_friendly"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 55,
+    "rainy_months": [
+      4,
+      10,
+      11
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      6,
+      7
+    ],
+    "blurb": "Petronas Towers, malls, halal food everywhere, easy hub for islands.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Kuala Lumpur Malaysia travel"
+  },
+  {
+    "id": "male",
+    "city": "Maldives",
+    "country": "Maldives",
+    "country_code": "MV",
+    "airport_iata": "MLE",
+    "lat": 4.2,
+    "lon": 73.5,
+    "region": "Indian Ocean",
+    "climate_avg_high_c": [
+      30,
+      31,
+      31,
+      32,
+      31,
+      31,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "tags": [
+      "beach",
+      "luxury",
+      "honeymoon",
+      "diving"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 350,
+    "rainy_months": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "blurb": "Overwater villas and reef snorkelling. Guesthouse islands for lower budgets.",
+    "visa": {
+      "TR": {
+        "status": "visa_on_arrival_free",
+        "max_stay_days": 30,
+        "note": "Free 30-day permit on arrival for all nationalities."
+      },
+      "AZ": {
+        "status": "visa_on_arrival_free",
+        "max_stay_days": 30,
+        "note": "Free 30-day permit on arrival for all nationalities."
+      }
+    },
+    "direct_from": [
+      "IST",
+      "GYD"
+    ],
+    "image_query": "Maldives Maldives travel"
+  },
+  {
+    "id": "sharm",
+    "city": "Sharm El Sheikh",
+    "country": "Egypt",
+    "country_code": "EG",
+    "airport_iata": "SSH",
+    "lat": 27.9,
+    "lon": 34.3,
+    "region": "Red Sea",
+    "climate_avg_high_c": [
+      22,
+      23,
+      25,
+      29,
+      33,
+      36,
+      37,
+      37,
+      35,
+      31,
+      27,
+      23
+    ],
+    "tags": [
+      "beach",
+      "diving",
+      "family",
+      "budget",
+      "all_inclusive"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 60,
+    "rainy_months": [],
+    "best_months": [
+      10,
+      11,
+      3,
+      4
+    ],
+    "blurb": "Red Sea reefs and all-inclusive resorts; mild-warm in Dec-Feb, sea ~22C.",
+    "visa": {
+      "TR": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": "Paid VOA; Sinai-only stamp may be free - verify."
+      },
+      "AZ": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Sharm El Sheikh Egypt travel"
+  },
+  {
+    "id": "hurghada",
+    "city": "Hurghada",
+    "country": "Egypt",
+    "country_code": "EG",
+    "airport_iata": "HRG",
+    "lat": 27.2,
+    "lon": 33.8,
+    "region": "Red Sea",
+    "climate_avg_high_c": [
+      21,
+      22,
+      24,
+      28,
+      31,
+      33,
+      34,
+      35,
+      33,
+      30,
+      26,
+      23
+    ],
+    "tags": [
+      "beach",
+      "diving",
+      "family",
+      "budget",
+      "all_inclusive"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 55,
+    "rainy_months": [],
+    "best_months": [
+      10,
+      11,
+      3,
+      4
+    ],
+    "blurb": "Budget all-inclusive beach holidays and snorkelling trips.",
+    "visa": {
+      "TR": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW"
+    ],
+    "image_query": "Hurghada Egypt travel"
+  },
+  {
+    "id": "colombo",
+    "city": "Colombo & South Coast",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "airport_iata": "CMB",
+    "lat": 6.9,
+    "lon": 79.9,
+    "region": "South Asia",
+    "climate_avg_high_c": [
+      31,
+      31,
+      32,
+      32,
+      31,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "tags": [
+      "beach",
+      "culture",
+      "nature",
+      "surf",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 45,
+    "rainy_months": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Tea hills, safaris and the Galle/Mirissa coast - best in winter.",
+    "visa": {
+      "TR": {
+        "status": "eta",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "eta",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Colombo & South Coast Sri Lanka travel"
+  },
+  {
+    "id": "bali",
+    "city": "Bali",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "airport_iata": "DPS",
+    "lat": -8.7,
+    "lon": 115.2,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      31,
+      31,
+      31,
+      32,
+      31,
+      30,
+      29,
+      30,
+      30,
+      31,
+      32,
+      31
+    ],
+    "tags": [
+      "beach",
+      "culture",
+      "surf",
+      "honeymoon",
+      "nature"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 65,
+    "rainy_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "best_months": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "blurb": "Rice terraces, temples and surf. Note: Dec-Mar is rainy season.",
+    "visa": {
+      "TR": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": "Plus Bali tourist levy."
+      },
+      "AZ": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": "Plus Bali tourist levy."
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Bali Indonesia travel"
+  },
+  {
+    "id": "phu_quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "country_code": "VN",
+    "airport_iata": "PQC",
+    "lat": 10.2,
+    "lon": 103.97,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      30,
+      31,
+      32,
+      33,
+      32,
+      31,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "tags": [
+      "beach",
+      "budget",
+      "family"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 50,
+    "rainy_months": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "best_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Quiet white-sand beaches and sunsets; dry season matches European winter.",
+    "visa": {
+      "TR": {
+        "status": "e_visa",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Phu Quoc Vietnam travel"
+  },
+  {
+    "id": "mauritius",
+    "city": "Mauritius",
+    "country": "Mauritius",
+    "country_code": "MU",
+    "airport_iata": "MRU",
+    "lat": -20.4,
+    "lon": 57.7,
+    "region": "Indian Ocean",
+    "climate_avg_high_c": [
+      30,
+      30,
+      30,
+      29,
+      27,
+      26,
+      25,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "tags": [
+      "beach",
+      "honeymoon",
+      "luxury",
+      "nature"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 180,
+    "rainy_months": [
+      1,
+      2,
+      3
+    ],
+    "best_months": [
+      10,
+      11,
+      12,
+      4,
+      5
+    ],
+    "blurb": "Lagoons, mountains and resorts; southern-hemisphere summer in Dec-Feb.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_on_arrival_free",
+        "max_stay_days": 60,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Mauritius Mauritius travel"
+  },
+  {
+    "id": "seychelles",
+    "city": "Mahe",
+    "country": "Seychelles",
+    "country_code": "SC",
+    "airport_iata": "SEZ",
+    "lat": -4.7,
+    "lon": 55.5,
+    "region": "Indian Ocean",
+    "climate_avg_high_c": [
+      30,
+      30,
+      31,
+      31,
+      30,
+      29,
+      28,
+      28,
+      29,
+      29,
+      30,
+      30
+    ],
+    "tags": [
+      "beach",
+      "luxury",
+      "honeymoon",
+      "nature"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 250,
+    "rainy_months": [
+      12,
+      1
+    ],
+    "best_months": [
+      4,
+      5,
+      10,
+      11
+    ],
+    "blurb": "Granite-boulder beaches. Online Travel Authorisation required for everyone.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": "Visitor permit on arrival; online Travel Authorisation required."
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": "Visitor permit on arrival; online Travel Authorisation required."
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Mahe Seychelles travel"
+  },
+  {
+    "id": "zanzibar",
+    "city": "Zanzibar",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "airport_iata": "ZNZ",
+    "lat": -6.2,
+    "lon": 39.2,
+    "region": "East Africa",
+    "climate_avg_high_c": [
+      32,
+      32,
+      32,
+      30,
+      29,
+      28,
+      28,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "tags": [
+      "beach",
+      "culture",
+      "diving",
+      "budget"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 70,
+    "rainy_months": [
+      4,
+      5,
+      11
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      6,
+      7,
+      8
+    ],
+    "blurb": "Spice-island old town (Stone Town) and turquoise east-coast beaches.",
+    "visa": {
+      "TR": {
+        "status": "e_visa",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Zanzibar Tanzania travel"
+  },
+  {
+    "id": "punta_cana",
+    "city": "Punta Cana",
+    "country": "Dominican Republic",
+    "country_code": "DO",
+    "airport_iata": "PUJ",
+    "lat": 18.6,
+    "lon": -68.4,
+    "region": "Caribbean",
+    "climate_avg_high_c": [
+      28,
+      28,
+      29,
+      29,
+      30,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30,
+      29
+    ],
+    "tags": [
+      "beach",
+      "all_inclusive",
+      "family",
+      "honeymoon"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 120,
+    "rainy_months": [
+      9,
+      10
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "blurb": "Caribbean all-inclusive resorts; long-haul with a connection.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": "Waiver agreement signed Sep 2026, not yet in force."
+      }
+    },
+    "direct_from": [],
+    "image_query": "Punta Cana Dominican Republic travel"
+  },
+  {
+    "id": "cancun",
+    "city": "Cancun",
+    "country": "Mexico",
+    "country_code": "MX",
+    "airport_iata": "CUN",
+    "lat": 21.2,
+    "lon": -86.8,
+    "region": "Caribbean",
+    "climate_avg_high_c": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      33,
+      33,
+      32,
+      31,
+      29,
+      28
+    ],
+    "tags": [
+      "beach",
+      "nightlife",
+      "culture",
+      "diving"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 110,
+    "rainy_months": [
+      9,
+      10
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "blurb": "Caribbean beaches plus Mayan ruins and cenotes.",
+    "visa": {
+      "TR": {
+        "status": "eta",
+        "max_stay_days": 180,
+        "note": "Electronic authorisation (SAE) route; otherwise visa - verify."
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Cancun Mexico travel"
+  },
+  {
+    "id": "havana",
+    "city": "Havana & Varadero",
+    "country": "Cuba",
+    "country_code": "CU",
+    "airport_iata": "HAV",
+    "lat": 23.1,
+    "lon": -82.4,
+    "region": "Caribbean",
+    "climate_avg_high_c": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      32,
+      31,
+      29,
+      28,
+      26
+    ],
+    "tags": [
+      "beach",
+      "culture",
+      "music"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 80,
+    "rainy_months": [
+      6,
+      9,
+      10
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Vintage cars, salsa and Varadero beach. Tourist card needed by all.",
+    "visa": {
+      "TR": {
+        "status": "e_visa",
+        "max_stay_days": 30,
+        "note": "Tourist card / e-visa - verify."
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Havana & Varadero Cuba travel"
+  },
+  {
+    "id": "rio",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "airport_iata": "GIG",
+    "lat": -22.9,
+    "lon": -43.2,
+    "region": "South America",
+    "climate_avg_high_c": [
+      30,
+      31,
+      30,
+      28,
+      26,
+      25,
+      25,
+      26,
+      25,
+      26,
+      28,
+      29
+    ],
+    "tags": [
+      "beach",
+      "city",
+      "nightlife",
+      "culture"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 90,
+    "rainy_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Copacabana, Sugarloaf and Carnival (Feb) - peak summer in winter months.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Rio de Janeiro Brazil travel"
+  },
+  {
+    "id": "cartagena",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "country_code": "CO",
+    "airport_iata": "CTG",
+    "lat": 10.4,
+    "lon": -75.5,
+    "region": "South America",
+    "climate_avg_high_c": [
+      31,
+      31,
+      31,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      31,
+      31,
+      31
+    ],
+    "tags": [
+      "beach",
+      "culture",
+      "city",
+      "nightlife"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 75,
+    "rainy_months": [
+      5,
+      9,
+      10,
+      11
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Colourful walled old town and Rosario islands.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Cartagena Colombia travel"
+  },
+  {
+    "id": "boracay",
+    "city": "Boracay",
+    "country": "Philippines",
+    "country_code": "PH",
+    "airport_iata": "MPH",
+    "lat": 11.9,
+    "lon": 121.9,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      29,
+      30,
+      31,
+      32,
+      32,
+      31,
+      30,
+      30,
+      30,
+      30,
+      30,
+      29
+    ],
+    "tags": [
+      "beach",
+      "nightlife",
+      "diving"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 65,
+    "rainy_months": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "blurb": "White Beach and island-hopping; dry season Dec-May.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Boracay Philippines travel"
+  },
+  {
+    "id": "goa",
+    "city": "Goa",
+    "country": "India",
+    "country_code": "IN",
+    "airport_iata": "GOX",
+    "lat": 15.4,
+    "lon": 73.8,
+    "region": "South Asia",
+    "climate_avg_high_c": [
+      32,
+      32,
+      32,
+      33,
+      33,
+      30,
+      29,
+      29,
+      30,
+      32,
+      33,
+      33
+    ],
+    "tags": [
+      "beach",
+      "nightlife",
+      "budget",
+      "culture"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 40,
+    "rainy_months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "best_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "blurb": "Beach shacks, Portuguese churches and parties; dry and sunny in winter.",
+    "visa": {
+      "TR": {
+        "status": "e_visa",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Goa India travel"
+  },
+  {
+    "id": "cape_town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "airport_iata": "CPT",
+    "lat": -33.9,
+    "lon": 18.4,
+    "region": "Southern Africa",
+    "climate_avg_high_c": [
+      26,
+      27,
+      25,
+      23,
+      20,
+      18,
+      18,
+      18,
+      19,
+      21,
+      23,
+      25
+    ],
+    "tags": [
+      "city",
+      "nature",
+      "beach",
+      "wine",
+      "food"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 85,
+    "rainy_months": [
+      6,
+      7,
+      8
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Table Mountain, wine country and penguins - summer in Dec-Feb.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Cape Town South Africa travel"
+  },
+  {
+    "id": "mombasa",
+    "city": "Mombasa & Diani",
+    "country": "Kenya",
+    "country_code": "KE",
+    "airport_iata": "MBA",
+    "lat": -4.0,
+    "lon": 39.6,
+    "region": "East Africa",
+    "climate_avg_high_c": [
+      32,
+      33,
+      33,
+      32,
+      30,
+      29,
+      28,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "tags": [
+      "beach",
+      "safari",
+      "nature"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 80,
+    "rainy_months": [
+      4,
+      5,
+      11
+    ],
+    "best_months": [
+      12,
+      1,
+      2,
+      7,
+      8
+    ],
+    "blurb": "Indian Ocean beaches easily combined with a safari.",
+    "visa": {
+      "TR": {
+        "status": "eta",
+        "max_stay_days": 90,
+        "note": "Kenya eTA required for all visitors."
+      },
+      "AZ": {
+        "status": "eta",
+        "max_stay_days": 90,
+        "note": "Kenya eTA required for all visitors."
+      }
+    },
+    "direct_from": [],
+    "image_query": "Mombasa & Diani Kenya travel"
+  },
+  {
+    "id": "dubai",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "airport_iata": "DXB",
+    "lat": 25.2,
+    "lon": 55.3,
+    "region": "Middle East",
+    "climate_avg_high_c": [
+      24,
+      25,
+      28,
+      33,
+      37,
+      39,
+      41,
+      41,
+      39,
+      35,
+      30,
+      26
+    ],
+    "tags": [
+      "city",
+      "beach",
+      "shopping",
+      "luxury",
+      "family",
+      "halal_friendly"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 160,
+    "rainy_months": [],
+    "best_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Winter is peak season: 24-28C, beaches, desert safari, malls.",
+    "visa": {
+      "TR": {
+        "status": "e_visa",
+        "max_stay_days": 30,
+        "note": "Visa on arrival possible if holding valid US/UK/Schengen visa."
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "GYD"
+    ],
+    "image_query": "Dubai United Arab Emirates travel"
+  },
+  {
+    "id": "doha",
+    "city": "Doha",
+    "country": "Qatar",
+    "country_code": "QA",
+    "airport_iata": "DOH",
+    "lat": 25.3,
+    "lon": 51.5,
+    "region": "Middle East",
+    "climate_avg_high_c": [
+      22,
+      23,
+      27,
+      32,
+      38,
+      41,
+      42,
+      41,
+      39,
+      35,
+      29,
+      24
+    ],
+    "tags": [
+      "city",
+      "culture",
+      "family",
+      "halal_friendly"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 130,
+    "rainy_months": [],
+    "best_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Museums, souqs and desert trips; pleasant 22-27C in winter.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "GYD"
+    ],
+    "image_query": "Doha Qatar travel"
+  },
+  {
+    "id": "muscat",
+    "city": "Muscat",
+    "country": "Oman",
+    "country_code": "OM",
+    "airport_iata": "MCT",
+    "lat": 23.6,
+    "lon": 58.4,
+    "region": "Middle East",
+    "climate_avg_high_c": [
+      25,
+      26,
+      29,
+      34,
+      39,
+      40,
+      38,
+      36,
+      35,
+      34,
+      30,
+      27
+    ],
+    "tags": [
+      "culture",
+      "nature",
+      "beach",
+      "halal_friendly"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 100,
+    "rainy_months": [],
+    "best_months": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Wadis, forts and quiet beaches; authentic Arabia without crowds.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 14,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 14,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Muscat Oman travel"
+  },
+  {
+    "id": "jeddah",
+    "city": "Jeddah & Red Sea",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "airport_iata": "JED",
+    "lat": 21.5,
+    "lon": 39.2,
+    "region": "Middle East",
+    "climate_avg_high_c": [
+      29,
+      30,
+      31,
+      34,
+      36,
+      38,
+      38,
+      38,
+      37,
+      35,
+      32,
+      30
+    ],
+    "tags": [
+      "culture",
+      "beach",
+      "halal_friendly",
+      "religious"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 110,
+    "rainy_months": [],
+    "best_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "blurb": "Historic Al-Balad and Red Sea coast; gateway for Umrah.",
+    "visa": {
+      "TR": {
+        "status": "e_visa",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "e_visa",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "GYD"
+    ],
+    "image_query": "Jeddah & Red Sea Saudi Arabia travel"
+  },
+  {
+    "id": "aqaba",
+    "city": "Aqaba & Petra",
+    "country": "Jordan",
+    "country_code": "JO",
+    "airport_iata": "AQJ",
+    "lat": 29.5,
+    "lon": 35.0,
+    "region": "Middle East",
+    "climate_avg_high_c": [
+      21,
+      23,
+      27,
+      31,
+      35,
+      38,
+      39,
+      39,
+      37,
+      33,
+      27,
+      22
+    ],
+    "tags": [
+      "beach",
+      "culture",
+      "diving",
+      "history"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 80,
+    "rainy_months": [],
+    "best_months": [
+      10,
+      11,
+      3,
+      4
+    ],
+    "blurb": "Red Sea diving plus a day trip to Petra and Wadi Rum.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_on_arrival",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Aqaba & Petra Jordan travel"
+  },
+  {
+    "id": "marrakech",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "country_code": "MA",
+    "airport_iata": "RAK",
+    "lat": 31.6,
+    "lon": -8.0,
+    "region": "North Africa",
+    "climate_avg_high_c": [
+      18,
+      20,
+      23,
+      25,
+      29,
+      33,
+      37,
+      37,
+      32,
+      27,
+      22,
+      19
+    ],
+    "tags": [
+      "culture",
+      "city",
+      "food",
+      "shopping"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 60,
+    "rainy_months": [],
+    "best_months": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "blurb": "Medina, riads and souks; sunny but only mild (18-20C) in winter.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Marrakech Morocco travel"
+  },
+  {
+    "id": "agadir",
+    "city": "Agadir",
+    "country": "Morocco",
+    "country_code": "MA",
+    "airport_iata": "AGA",
+    "lat": 30.4,
+    "lon": -9.6,
+    "region": "North Africa",
+    "climate_avg_high_c": [
+      21,
+      22,
+      23,
+      23,
+      24,
+      25,
+      26,
+      27,
+      27,
+      26,
+      24,
+      22
+    ],
+    "tags": [
+      "beach",
+      "surf",
+      "budget",
+      "family"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 55,
+    "rainy_months": [],
+    "best_months": [
+      10,
+      11,
+      3,
+      4,
+      5
+    ],
+    "blurb": "Atlantic surf town with near-constant sunshine and mild winters.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [],
+    "image_query": "Agadir Morocco travel"
+  },
+  {
+    "id": "singapore",
+    "city": "Singapore",
+    "country": "Singapore",
+    "country_code": "SG",
+    "airport_iata": "SIN",
+    "lat": 1.35,
+    "lon": 103.99,
+    "region": "Southeast Asia",
+    "climate_avg_high_c": [
+      30,
+      31,
+      32,
+      32,
+      32,
+      31,
+      31,
+      31,
+      31,
+      31,
+      31,
+      30
+    ],
+    "tags": [
+      "city",
+      "food",
+      "family",
+      "shopping"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 150,
+    "rainy_months": [
+      11,
+      12,
+      1
+    ],
+    "best_months": [
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
+    "blurb": "Gardens by the Bay, hawker food, Sentosa beaches; great family stopover.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Singapore Singapore travel"
+  },
+  {
+    "id": "antalya",
+    "city": "Antalya",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "airport_iata": "AYT",
+    "lat": 36.9,
+    "lon": 30.7,
+    "region": "Mediterranean",
+    "climate_avg_high_c": [
+      15,
+      16,
+      18,
+      21,
+      26,
+      31,
+      34,
+      34,
+      31,
+      26,
+      21,
+      16
+    ],
+    "tags": [
+      "beach",
+      "history",
+      "family",
+      "all_inclusive",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 60,
+    "rainy_months": [
+      12,
+      1,
+      2
+    ],
+    "best_months": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "blurb": "Riviera resorts; in winter it's mild (15-16C) - good for city/history, not swimming.",
+    "visa": {
+      "TR": {
+        "status": "domestic",
+        "max_stay_days": null,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "GYD"
+    ],
+    "image_query": "Antalya Turkiye travel"
+  },
+  {
+    "id": "tbilisi",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "country_code": "GE",
+    "airport_iata": "TBS",
+    "lat": 41.7,
+    "lon": 44.8,
+    "region": "Caucasus",
+    "climate_avg_high_c": [
+      7,
+      9,
+      14,
+      19,
+      24,
+      29,
+      32,
+      32,
+      27,
+      20,
+      13,
+      8
+    ],
+    "tags": [
+      "city",
+      "food",
+      "wine",
+      "culture",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 50,
+    "rainy_months": [],
+    "best_months": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "blurb": "Sulphur baths, wine bars and old-town balconies.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 365,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 365,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "GYD"
+    ],
+    "image_query": "Tbilisi Georgia travel"
+  },
+  {
+    "id": "gudauri",
+    "city": "Gudauri",
+    "country": "Georgia",
+    "country_code": "GE",
+    "airport_iata": "TBS",
+    "lat": 42.48,
+    "lon": 44.48,
+    "region": "Caucasus",
+    "climate_avg_high_c": [
+      -4,
+      -3,
+      1,
+      5,
+      10,
+      14,
+      17,
+      17,
+      13,
+      8,
+      2,
+      -2
+    ],
+    "tags": [
+      "ski",
+      "nature",
+      "winter_sports",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 70,
+    "rainy_months": [],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Affordable freeride and ski resort ~2h from Tbilisi.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 365,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 365,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "GYD"
+    ],
+    "image_query": "Gudauri Georgia travel"
+  },
+  {
+    "id": "shahdag",
+    "city": "Shahdag",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "airport_iata": "GYD",
+    "lat": 41.3,
+    "lon": 48.1,
+    "region": "Caucasus",
+    "climate_avg_high_c": [
+      -3,
+      -2,
+      2,
+      8,
+      13,
+      17,
+      20,
+      20,
+      16,
+      10,
+      4,
+      -1
+    ],
+    "tags": [
+      "ski",
+      "family",
+      "winter_sports"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 90,
+    "rainy_months": [],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Modern ski resort in the Greater Caucasus, ~3.5h from Baku.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "domestic",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW"
+    ],
+    "image_query": "Shahdag Azerbaijan travel"
+  },
+  {
+    "id": "palandoken",
+    "city": "Erzurum (Palandoken)",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "airport_iata": "ERZ",
+    "lat": 39.9,
+    "lon": 41.3,
+    "region": "Eastern Anatolia",
+    "climate_avg_high_c": [
+      -5,
+      -3,
+      2,
+      11,
+      17,
+      22,
+      27,
+      28,
+      23,
+      15,
+      6,
+      -2
+    ],
+    "tags": [
+      "ski",
+      "winter_sports",
+      "budget"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 55,
+    "rainy_months": [],
+    "best_months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "blurb": "Long ski season and cheap lift passes in eastern Turkiye.",
+    "visa": {
+      "TR": {
+        "status": "domestic",
+        "max_stay_days": null,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "ESB"
+    ],
+    "image_query": "Erzurum (Palandoken) Turkiye travel"
+  },
+  {
+    "id": "tokyo",
+    "city": "Tokyo",
+    "country": "Japan",
+    "country_code": "JP",
+    "airport_iata": "HND",
+    "lat": 35.6,
+    "lon": 139.7,
+    "region": "East Asia",
+    "climate_avg_high_c": [
+      10,
+      10,
+      14,
+      19,
+      23,
+      26,
+      30,
+      31,
+      27,
+      22,
+      17,
+      12
+    ],
+    "tags": [
+      "city",
+      "food",
+      "culture",
+      "shopping"
+    ],
+    "budget_level": 3,
+    "est_daily_cost_usd": 150,
+    "rainy_months": [
+      6,
+      9
+    ],
+    "best_months": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "blurb": "Neon, sushi and cherry blossoms in spring. Cold but dry in winter.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_required",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Tokyo Japan travel"
+  },
+  {
+    "id": "belgrade",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "country_code": "RS",
+    "airport_iata": "BEG",
+    "lat": 44.8,
+    "lon": 20.3,
+    "region": "Balkans",
+    "climate_avg_high_c": [
+      4,
+      7,
+      12,
+      18,
+      23,
+      27,
+      29,
+      30,
+      24,
+      18,
+      11,
+      5
+    ],
+    "tags": [
+      "city",
+      "nightlife",
+      "budget",
+      "food"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 50,
+    "rainy_months": [],
+    "best_months": [
+      5,
+      6,
+      9
+    ],
+    "blurb": "River-barge nightlife and big portions; cheap European city break.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "GYD"
+    ],
+    "image_query": "Belgrade Serbia travel"
+  },
+  {
+    "id": "samarkand",
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "country_code": "UZ",
+    "airport_iata": "SKD",
+    "lat": 39.6,
+    "lon": 66.9,
+    "region": "Central Asia",
+    "climate_avg_high_c": [
+      7,
+      9,
+      15,
+      21,
+      27,
+      32,
+      34,
+      33,
+      28,
+      21,
+      14,
+      9
+    ],
+    "tags": [
+      "culture",
+      "history",
+      "budget",
+      "halal_friendly"
+    ],
+    "budget_level": 1,
+    "est_daily_cost_usd": 45,
+    "rainy_months": [],
+    "best_months": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "blurb": "Registan and Silk Road architecture.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 30,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 60,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST"
+    ],
+    "image_query": "Samarkand Uzbekistan travel"
+  },
+  {
+    "id": "istanbul",
+    "city": "Istanbul",
+    "country": "Turkiye",
+    "country_code": "TR",
+    "airport_iata": "IST",
+    "lat": 41.0,
+    "lon": 28.98,
+    "region": "Mediterranean",
+    "climate_avg_high_c": [
+      9,
+      9,
+      12,
+      16,
+      21,
+      26,
+      28,
+      29,
+      25,
+      20,
+      15,
+      11
+    ],
+    "tags": [
+      "city",
+      "food",
+      "history",
+      "shopping"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 90,
+    "rainy_months": [
+      12,
+      1
+    ],
+    "best_months": [
+      4,
+      5,
+      9,
+      10
+    ],
+    "blurb": "Bosphorus, bazaars and two continents in one city.",
+    "visa": {
+      "TR": {
+        "status": "domestic",
+        "max_stay_days": null,
+        "note": null
+      },
+      "AZ": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "GYD"
+    ],
+    "image_query": "Istanbul Turkiye travel"
+  },
+  {
+    "id": "baku",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "country_code": "AZ",
+    "airport_iata": "GYD",
+    "lat": 40.4,
+    "lon": 49.9,
+    "region": "Caucasus",
+    "climate_avg_high_c": [
+      7,
+      7,
+      10,
+      16,
+      22,
+      27,
+      30,
+      30,
+      26,
+      20,
+      13,
+      9
+    ],
+    "tags": [
+      "city",
+      "food",
+      "history"
+    ],
+    "budget_level": 2,
+    "est_daily_cost_usd": 70,
+    "rainy_months": [],
+    "best_months": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "blurb": "Old City, Flame Towers and the Caspian boulevard.",
+    "visa": {
+      "TR": {
+        "status": "visa_free",
+        "max_stay_days": 90,
+        "note": null
+      },
+      "AZ": {
+        "status": "domestic",
+        "max_stay_days": null,
+        "note": null
+      }
+    },
+    "direct_from": [
+      "IST",
+      "SAW",
+      "ESB"
+    ],
+    "image_query": "Baku Azerbaijan travel"
+  }
+]
